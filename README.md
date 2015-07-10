@@ -18,6 +18,10 @@ Since CMake cannot create WinRT project files directly, the following procedure 
 * Configure, Generate and Build Win32 projects
 * Set up CMake for WinRT
 * Configure and Generate WinRT project files
+* * Set up CMake with the correct parameters
+* Configure, Generate and Build Win32 projects
+* Set up CMake for WinRT
+* Configure and Generate WinRT project files
 * Build WinRT projects
 Since CMake cannot create WinRT project files directly, the following procedure is required if you want to make changes to the opencv projects using CMake options. The basic procedure is:
 
